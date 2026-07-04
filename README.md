@@ -358,7 +358,7 @@ By using Power BI visuals, slicers, DAX measures, and time intelligence function
 
 **Harshdeep Singh**
 
-GitHub: Add your GitHub profile link here
+GitHub: https://github.com/Harshdeep6106
 Email: Harshdeepsinghm13@gmail.com
 
 ---
