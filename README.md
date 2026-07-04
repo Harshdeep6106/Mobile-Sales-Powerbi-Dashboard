@@ -339,8 +339,7 @@ By using Power BI visuals, slicers, DAX measures, and time intelligence function
 ├── Data
 │   └── Mobile Sales Data.xlsx / csv   # Mobile sales dataset
 │
-└── images
-    └── dashboard-preview.png          # Dashboard screenshot
+
 ```
 
 ---
@@ -359,9 +358,8 @@ By using Power BI visuals, slicers, DAX measures, and time intelligence function
 
 **Harshdeep Singh**
 
-LinkedIn: Add your LinkedIn profile link here
 GitHub: Add your GitHub profile link here
-Email: Add your email address here
+Email: Harshdeepsinghm13@gmail.com
 
 ---
 
